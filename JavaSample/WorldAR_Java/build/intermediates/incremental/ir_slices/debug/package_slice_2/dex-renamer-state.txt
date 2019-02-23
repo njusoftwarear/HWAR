@@ -1,4 +1,0 @@
-#Fri Feb 15 11:56:26 CST 2019
-base.0=E\:\\HwAR\\AREngine_SDK_1.3.0.001_AS\\java\\JavaSample\\WorldAR_Java\\build\\intermediates\\transforms\\dexMerger\\debug\\2
-path.0=classes.dex
-renamed.0=classes.dex

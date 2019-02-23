@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\HwAR\\AREngine_SDK_1.3.0.001_AS\\java\\JavaSample\\WorldAR_Java\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "outputFile": "E:\\HwAR\\HWAR\\JavaSample\\WorldAR_Java\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\HUAWEI AR Engine SDK_v1.3.0.aar\\8374581e2bf5cacdb5d947a027032135\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,104,154,227,283,344",
+                        "endColumns": "48,49,72,55,60,67",
+                        "endOffsets": "99,149,222,278,339,407"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "105,154,204,277,333,394",
+                        "endColumns": "48,49,72,55,60,67",
+                        "endOffsets": "149,199,272,328,389,457"
+                    }
+                },
                 {
                     "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\43fb6a014cac8a292f4514378a611ec4\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
@@ -35,23 +52,6 @@
                         "startOffsets": "2166",
                         "endColumns": "100",
                         "endOffsets": "2262"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\HUAWEI AR Engine SDK_v1.3.0.aar\\aee4401e769eb72dd5017e23711667a8\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,104,154,227,283,344",
-                        "endColumns": "48,49,72,55,60,67",
-                        "endOffsets": "99,149,222,278,339,407"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "105,154,204,277,333,394",
-                        "endColumns": "48,49,72,55,60,67",
-                        "endOffsets": "149,199,272,328,389,457"
                     }
                 }
             ]

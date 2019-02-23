@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\HwAR\\AREngine_SDK_1.3.0.001_AS\\java\\JavaSample\\WorldAR_Java\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
+            "outputFile": "E:\\HwAR\\HWAR\\JavaSample\\WorldAR_Java\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\548301a990af692628281f4bb4a4feaf\\res\\values-lt\\values-lt.xml",

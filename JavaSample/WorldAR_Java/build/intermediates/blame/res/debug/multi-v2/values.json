@@ -1,8 +1,61 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\HwAR\\AREngine_SDK_1.3.0.001_AS\\java\\JavaSample\\WorldAR_Java\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\HwAR\\HWAR\\JavaSample\\WorldAR_Java\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\HUAWEI AR Engine SDK_v1.3.0.aar\\8374581e2bf5cacdb5d947a027032135\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,108,163,285,340,424",
+                        "endColumns": "52,54,121,54,83,106",
+                        "endOffsets": "103,158,280,335,419,526"
+                    },
+                    "to": {
+                        "startLines": "741,742,743,744,745,746",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "61885,61938,61993,62115,62170,62254",
+                        "endColumns": "52,54,121,54,83,106",
+                        "endOffsets": "61933,61988,62110,62165,62249,62356"
+                    }
+                },
+                {
+                    "source": "E:\\HwAR\\HWAR\\JavaSample\\WorldAR_Java\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "49",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "776",
+                        "startColumns": "4",
+                        "startOffsets": "64480",
+                        "endColumns": "49",
+                        "endOffsets": "64525"
+                    }
+                },
+                {
+                    "source": "E:\\HwAR\\HWAR\\JavaSample\\WorldAR_Java\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
+                    },
+                    "to": {
+                        "startLines": "796",
+                        "startColumns": "4",
+                        "startOffsets": "66551",
+                        "endLines": "801",
+                        "endColumns": "12",
+                        "endOffsets": "66865"
+                    }
+                },
                 {
                     "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.0.aar\\a96918c166ad239dca66e3383b2a5192\\res\\values\\values.xml",
                     "from": {
@@ -37,23 +90,6 @@
                         "startOffsets": "60133,60343,60482,60529,60584,60921,60975,61027,61076,61137",
                         "endColumns": "39,42,46,54,44,53,51,48,60,49",
                         "endOffsets": "60168,60381,60524,60579,60624,60970,61022,61071,61132,61182"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\HUAWEI AR Engine SDK_v1.3.0.aar\\aee4401e769eb72dd5017e23711667a8\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,108,163,285,340,424",
-                        "endColumns": "52,54,121,54,83,106",
-                        "endOffsets": "103,158,280,335,419,526"
-                    },
-                    "to": {
-                        "startLines": "741,742,743,744,745,746",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "61885,61938,61993,62115,62170,62254",
-                        "endColumns": "52,54,121,54,83,106",
-                        "endOffsets": "61933,61988,62110,62165,62249,62356"
                     }
                 },
                 {
@@ -95,42 +131,6 @@
                     }
                 },
                 {
-                    "source": "E:\\HwAR\\AREngine_SDK_1.3.0.001_AS\\java\\JavaSample\\WorldAR_Java\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "157,57,105,204",
-                        "endColumns": "45,46,50,37",
-                        "endOffsets": "198,99,151,237"
-                    },
-                    "to": {
-                        "startLines": "118,119,120,162",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "6284,6330,6377,9156",
-                        "endColumns": "45,46,50,37",
-                        "endOffsets": "6325,6372,6423,9189"
-                    }
-                },
-                {
-                    "source": "E:\\HwAR\\AREngine_SDK_1.3.0.001_AS\\java\\JavaSample\\WorldAR_Java\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "376"
-                    },
-                    "to": {
-                        "startLines": "796",
-                        "startColumns": "4",
-                        "startOffsets": "66551",
-                        "endLines": "801",
-                        "endColumns": "12",
-                        "endOffsets": "66865"
-                    }
-                },
-                {
                     "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\a7991fabf4252e65a3aa0e1314fe7b61\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10",
@@ -148,20 +148,20 @@
                     }
                 },
                 {
-                    "source": "E:\\HwAR\\AREngine_SDK_1.3.0.001_AS\\java\\JavaSample\\WorldAR_Java\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\HwAR\\HWAR\\JavaSample\\WorldAR_Java\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "49",
-                        "endOffsets": "62"
+                        "startLines": "4,2,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "157,57,105,204",
+                        "endColumns": "45,46,50,37",
+                        "endOffsets": "198,99,151,237"
                     },
                     "to": {
-                        "startLines": "776",
-                        "startColumns": "4",
-                        "startOffsets": "64480",
-                        "endColumns": "49",
-                        "endOffsets": "64525"
+                        "startLines": "118,119,120,162",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "6284,6330,6377,9156",
+                        "endColumns": "45,46,50,37",
+                        "endOffsets": "6325,6372,6423,9189"
                     }
                 },
                 {

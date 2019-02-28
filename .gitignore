@@ -4,7 +4,9 @@
 .idea
 .DS_Store
 /build
-JavaSample/.idea/
+
 
 /captures
 .externalNativeBuild
+JavaSample/local.properties
+JavaSample/.idea/

@@ -4,7 +4,7 @@
 .idea
 .DS_Store
 /build
-JavaSample\.idea
+JavaSample/.idea/
 
 /captures
 .externalNativeBuild
